@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: arial;
+    margin: 0 auto;
+    width: 70%;
+    margin-top: 50px;
+}
+
+.button-block{
+    display: flex;
+}
+.button-click{
+    margin-right: 15px;
+    font-size: 20px;
+    border: none;
+    padding: 10px 20px;
+    color: gray;
+    background: transparent;
+    cursor: pointer;
+}
